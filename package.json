@@ -1,6 +1,6 @@
 {
   "name": "gcp-automate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command line tool to automate various Googl-App-Engine operations",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "bin": {
     "list_gcp_projects": "bin/list_projects.js",
-    "deploy": "bin/deploy.js"	
+    "deploy": "bin/deploy.js"
   },
   "author": "Prafful Mehrotra",
   "license": "ISC",
