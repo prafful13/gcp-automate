@@ -1,11 +1,22 @@
 {
   "name": "gcp-automate",
   "version": "1.0.0",
-  "description": "A command line tool to automate various gcp operations",
+  "description": "A command line tool to automate various Googl-App-Engine operations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prafful13/gcp-automate.git"
+  },
+  "bin": {
+    "list_gcp_projects": "bin/list_projects.js",
+    "deploy": "bin/deploy.js"
+  },
   "author": "Prafful Mehrotra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.0"
+  }
 }
