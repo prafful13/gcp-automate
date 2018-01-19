@@ -1,0 +1,11 @@
+{
+  "name": "gcp-automate",
+  "version": "1.0.0",
+  "description": "A command line tool to automate various gcp operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prafful Mehrotra",
+  "license": "ISC"
+}
