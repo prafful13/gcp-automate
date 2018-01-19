@@ -1,8 +1,7 @@
 {
-  "name": "gcp-automate",
+  "name": "gcp-automate2",
   "version": "1.0.2",
-  "description": "A command line tool to automate various Googl-App-Engine operations",
-  "main": "index.js",
+  "description": "A command line tool to automate various Google-App-Engine operations",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
